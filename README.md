@@ -22,5 +22,5 @@
 
 ---
 <p align="center>
-<img src="https://visitcount.itsvg.in/api?id=avict18&icon=6&color=0">
+[](https://visitcount.itsvg.in/api?id=avict18&icon=6&color=0)
 </p>
