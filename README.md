@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on building a PMS<br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with an individual to grow with<br>🌱 I’m currently learning Django development and react-native<br>💬 Ask me about Python programming<br>⚡ Fun fact "Code whispers, chaos follows"
+🔭 I’m currently working on building an AI powered study companion platform <br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with an individual to grow with<br>🌱 I’m currently learning Django development and react-native<br>💬 Ask me about Python programming<br>⚡ Fun fact "Code whispers, chaos follows"
 
 
 ## 🌐 Socials:
